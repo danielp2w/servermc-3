@@ -10440,3 +10440,8 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [11Dec2024 22:26:43.975] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/65982, l='ServerLevel[world]', x=-805.18, y=-256.00, z=-177.14] died, message: 'Villager was killed'
 [11Dec2024 22:30:01.535] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Beekeeper'/44659, l='ServerLevel[world]', x=-2645.76, y=60.00, z=-428.70] died, message: 'Beekeeper went up in flames'
 [11Dec2024 22:30:01.536] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/45592, l='ServerLevel[world]', x=-2645.30, y=60.00, z=-428.30] died, message: 'Farmer went up in flames'
+[11Dec2024 22:31:28.058] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 22:31:28.073] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 22:36:28.047] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 22:36:28.064] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 22:37:02.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Gave 128 [Stone Bricks] to LastFist]
