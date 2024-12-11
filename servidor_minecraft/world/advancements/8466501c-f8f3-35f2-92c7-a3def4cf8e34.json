@@ -77,12 +77,6 @@
     },
     "done": true
   },
-  "undead_revamp2:theundeadchallenges": {
-    "criteria": {
-      "theundeadchallenges": "2024-12-10 19:32:11 +0000"
-    },
-    "done": true
-  },
   "incendium:technical/using/trailblazer": {
     "criteria": {
       "log_spam_fixer": "2024-12-10 19:32:11 +0000"
@@ -108,17 +102,12 @@
       "minecraft:river": "2024-12-10 19:37:43 +0000",
       "minecraft:dripstone_caves": "2024-12-10 19:56:03 +0000",
       "minecraft:forest": "2024-12-10 19:34:11 +0000",
+      "minecraft:ocean": "2024-12-11 21:05:34 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-10 20:49:21 +0000",
       "minecraft:meadow": "2024-12-10 19:39:37 +0000",
       "minecraft:plains": "2024-12-10 19:32:11 +0000"
     },
     "done": false
-  },
-  "placeablesmod:placeables": {
-    "criteria": {
-      "placeables": "2024-12-10 19:32:11 +0000"
-    },
-    "done": true
   },
   "eeeabsmobs:eeeabsmobs/root": {
     "criteria": {
@@ -177,6 +166,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2024-12-10 19:35:38 +0000",
+      "cooked_beef": "2024-12-11 21:04:59 +0000",
       "mutton": "2024-12-10 19:39:07 +0000",
       "bread": "2024-12-10 19:44:06 +0000",
       "cooked_chicken": "2024-12-10 20:18:12 +0000"
@@ -356,77 +346,29 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "iceandfire:iceandfire/kill_ghost": {
     "criteria": {
-      "log_spam_fixer": "2024-12-10 23:08:45 +0000"
+      "killed_fire_dragon": "2024-12-10 20:42:02 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "tombstone:adventure/chain_death": {
     "criteria": {
-      "log_spam_fixer": "2024-12-10 23:08:45 +0000"
+      "coded_trigger": "2024-12-10 20:44:32 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
+  "iceandfire:iceandfire/kill_cyclops": {
     "criteria": {
-      "log_spam_fixer": "2024-12-10 23:08:45 +0000"
+      "killed_fire_dragon": "2024-12-10 20:44:53 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "tombstone:adventure/ashes_and_bones": {
     "criteria": {
-      "log_spam_fixer": "2024-12-10 23:08:45 +0000"
+      "coded_trigger": "2024-12-10 20:48:23 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 23:08:45 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 23:08:45 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 23:08:45 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 23:08:45 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 23:08:45 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 23:08:45 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 23:08:45 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 23:08:45 +0000"
-    },
-    "done": false
+    "done": true
   },
   "minecraft:story/obtain_armor": {
     "criteria": {
@@ -434,35 +376,15 @@
     },
     "done": true
   },
-  "twilightforest:progress_trophy_pedestal": {
+  "twilightforest:root": {
     "criteria": {
-      "kill_lich": "2024-12-10 22:02:08 +0000",
-      "trophy_pedestal": "2024-12-10 22:30:15 +0000"
+      "in_tf": "2024-12-10 20:58:09 +0000"
     },
     "done": true
   },
   "twilightforest:twilight_hunter": {
     "criteria": {
       "kobold": "2024-12-10 20:59:07 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:progress_knights": {
-    "criteria": {
-      "previous_progression": "2024-12-10 22:30:15 +0000",
-      "was_in_fight": "2024-12-10 22:37:07 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:progress_labyrinth": {
-    "criteria": {
-      "kill_lich": "2024-12-10 22:02:08 +0000"
-    },
-    "done": false
-  },
-  "tombstone:adventure/ambush": {
-    "criteria": {
-      "coded_trigger": "2024-12-10 22:05:05 +0000"
     },
     "done": true
   },
@@ -477,45 +399,15 @@
     },
     "done": false
   },
-  "minecraft:husbandry/bred_all_animals": {
+  "minecraft:story/mine_diamond": {
     "criteria": {
-      "minecraft:wolf": "2024-12-10 22:14:52 +0000"
+      "diamond": "2024-12-10 21:20:54 +0000"
     },
-    "done": false
-  },
-  "twilightforest:twilight_dinner": {
-    "criteria": {
-      "maze_wafer": "2024-12-10 22:41:22 +0000"
-    },
-    "done": false
+    "done": true
   },
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2024-12-10 21:23:36 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_cyclops": {
-    "criteria": {
-      "killed_fire_dragon": "2024-12-10 20:44:53 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:progress_yeti": {
-    "criteria": {
-      "previous_progression": "2024-12-10 22:02:08 +0000"
-    },
-    "done": false
-  },
-  "twilightforest:progress_naga": {
-    "criteria": {
-      "was_in_fight": "2024-12-10 21:42:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_chestplate": "2024-12-10 22:10:19 +0000"
     },
     "done": true
   },
@@ -525,15 +417,66 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/kill_ghost": {
+  "twilightforest:progress_naga": {
     "criteria": {
-      "killed_fire_dragon": "2024-12-10 20:42:02 +0000"
+      "was_in_fight": "2024-12-10 21:42:53 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/chain_death": {
+  "twilightforest:progress_lich": {
     "criteria": {
-      "coded_trigger": "2024-12-10 20:44:32 +0000"
+      "kill_naga": "2024-12-10 21:42:53 +0000",
+      "was_in_fight": "2024-12-10 22:02:08 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_trophy_pedestal": {
+    "criteria": {
+      "kill_lich": "2024-12-10 22:02:08 +0000",
+      "trophy_pedestal": "2024-12-10 22:30:15 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_labyrinth": {
+    "criteria": {
+      "kill_lich": "2024-12-10 22:02:08 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:progress_yeti": {
+    "criteria": {
+      "previous_progression": "2024-12-10 22:02:08 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2024-12-10 22:05:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2024-12-10 22:10:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:wolf": "2024-12-10 22:14:52 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2024-12-10 22:14:52 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_knights": {
+    "criteria": {
+      "previous_progression": "2024-12-10 22:30:15 +0000",
+      "was_in_fight": "2024-12-10 22:37:07 +0000"
     },
     "done": true
   },
@@ -549,27 +492,9 @@
     },
     "done": true
   },
-  "tombstone:adventure/create_familiar_receptacle": {
+  "tombstone:adventure/enchant_voodoo_poppet": {
     "criteria": {
-      "has_familiar_receptacle": "2024-12-10 22:37:15 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:root": {
-    "criteria": {
-      "in_tf": "2024-12-10 20:58:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/mine_diamond": {
-    "criteria": {
-      "diamond": "2024-12-10 21:20:54 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/ashes_and_bones": {
-    "criteria": {
-      "coded_trigger": "2024-12-10 20:48:23 +0000"
+      "has_enchanted_voodoo_poppet": "2024-12-10 22:36:37 +0000"
     },
     "done": true
   },
@@ -579,22 +504,21 @@
     },
     "done": false
   },
-  "tombstone:adventure/enchant_voodoo_poppet": {
+  "twilightforest:twilight_dinner": {
     "criteria": {
-      "has_enchanted_voodoo_poppet": "2024-12-10 22:36:37 +0000"
+      "maze_wafer": "2024-12-10 22:41:22 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/mysterious_gift": {
+    "criteria": {
+      "coded_trigger": "2024-12-11 20:55:45 +0000"
     },
     "done": true
   },
-  "minecraft:husbandry/breed_an_animal": {
+  "undead_revamp2:theundeadchallenges": {
     "criteria": {
-      "bred": "2024-12-10 22:14:52 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:progress_lich": {
-    "criteria": {
-      "kill_naga": "2024-12-10 21:42:53 +0000",
-      "was_in_fight": "2024-12-10 22:02:08 +0000"
+      "theundeadchallenges_0": "2024-12-11 21:01:31 +0000"
     },
     "done": true
   },

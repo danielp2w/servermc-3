@@ -122,8 +122,14 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:birch_forest": "2024-12-10 05:02:02 +0000",
+      "minecraft:beach": "2024-12-11 21:04:11 +0000",
+      "minecraft:dark_forest": "2024-12-11 21:05:01 +0000",
       "minecraft:river": "2024-12-10 04:56:21 +0000",
       "minecraft:forest": "2024-12-10 04:58:51 +0000",
+      "minecraft:windswept_forest": "2024-12-11 21:05:01 +0000",
+      "minecraft:ocean": "2024-12-11 21:04:42 +0000",
+      "minecraft:windswept_savanna": "2024-12-11 21:04:16 +0000",
+      "minecraft:old_growth_birch_forest": "2024-12-11 21:04:33 +0000",
       "minecraft:plains": "2024-12-10 04:50:19 +0000"
     },
     "done": false
@@ -315,12 +321,6 @@
     },
     "done": true
   },
-  "tombstone:adventure/ambush": {
-    "criteria": {
-      "coded_trigger": "2024-12-11 20:37:06 +0000"
-    },
-    "done": true
-  },
   "undead_revamp2:theundeadchallenges": {
     "criteria": {
       "theundeadchallenges_0": "2024-12-11 20:27:38 +0000"
@@ -333,6 +333,18 @@
     },
     "done": true
   },
+  "aether:the_aether": {
+    "criteria": {
+      "the_aether": "2024-12-11 20:28:37 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2024-12-11 20:37:06 +0000"
+    },
+    "done": true
+  },
   "betterdungeons:all_dungeons": {
     "criteria": {
       "in_better_spider_dungeon": "2024-12-11 20:39:59 +0000"
@@ -342,12 +354,6 @@
   "betterdungeons:spider_dungeon": {
     "criteria": {
       "in_better_spider_dungeon": "2024-12-11 20:39:59 +0000"
-    },
-    "done": true
-  },
-  "aether:the_aether": {
-    "criteria": {
-      "the_aether": "2024-12-11 20:28:37 +0000"
     },
     "done": true
   },
