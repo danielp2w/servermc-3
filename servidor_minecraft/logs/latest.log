@@ -771,3 +771,14 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [11Dec2024 20:27:45.876] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8918f011-ec17-38f1-8011-e3f2a176466a
 [11Dec2024 20:27:45.887] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player PamelaG (8918f011-ec17-38f1-8011-e3f2a176466a) successfully connected to voice chat
 [11Dec2024 20:28:37.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PamelaG has made the advancement [Hostile Paradise]
+[11Dec2024 20:34:50.851] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of PamelaG) moved too quickly! -0.015423363389004408,-320.27694881890557,7.24587541764965E-4
+[11Dec2024 20:34:51.094] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of PamelaG) moved too quickly! -0.029458624477456397,-320.52694881890557,0.0013839622237741267
+[11Dec2024 20:36:15.400] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id supplementaries:book_pile
+[11Dec2024 20:37:06.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PamelaG has made the advancement [Ambush]
+[11Dec2024 20:39:59.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PamelaG has made the advancement [Cobweb Entanglement]
+[11Dec2024 20:41:40.613] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1194, y=-25, z=226} but found not block entity block Block{minecraft:air} at location
+[11Dec2024 20:41:40.618] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1194, y=-25, z=226}
+[11Dec2024 20:42:05.713] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1218, y=-16, z=178} but found not block entity block Block{minecraft:air} at location
+[11Dec2024 20:42:05.714] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1218, y=-16, z=178}
+[11Dec2024 20:42:31.918] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1291, y=-44, z=96} but found not block entity block Block{minecraft:air} at location
+[11Dec2024 20:42:31.919] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1291, y=-44, z=96}
