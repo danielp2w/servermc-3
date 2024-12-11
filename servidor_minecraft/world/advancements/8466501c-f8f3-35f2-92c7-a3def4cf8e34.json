@@ -524,5 +524,23 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/bestiary": {
+    "criteria": {
+      "bestiary": "2024-12-11 21:29:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-11 21:28:51 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:husbandry/beehive": {
+    "criteria": {
+      "beehive": "2024-12-11 21:36:28 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }

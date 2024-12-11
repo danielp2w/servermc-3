@@ -8076,3 +8076,46 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [11Dec2024 21:29:21.836] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/5590, l='ServerLevel[world]', x=-2688.53, y=73.00, z=-412.87] died, message: 'Villager died whilst trying to escape The Spitter'
 [11Dec2024 21:29:38.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [Book of Monsters]
 [11Dec2024 21:29:49.389] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/5553, l='ServerLevel[world]', x=-2651.30, y=73.00, z=-397.30] died, message: 'Weaponsmith was slain by Zombie'
+[11Dec2024 21:30:00.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> me falta hierro wn
+[11Dec2024 21:30:20.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Teleported LastFist to -802.500000, 64.000000, -177.500000]
+[11Dec2024 21:30:24.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> voy
+[11Dec2024 21:30:25.278] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/24082, l='ServerLevel[world]', x=-805.18, y=-256.00, z=-177.14] died, message: 'Villager was killed'
+[11Dec2024 21:30:46.295] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/5424, l='ServerLevel[world]', x=-2665.29, y=69.00, z=-410.44] died, message: 'Villager was slain by Zombie'
+[11Dec2024 21:31:00.378] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 21:31:00.395] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 21:31:54.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Gave 96 [TNT] to LastFist]
+[11Dec2024 21:32:14.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Teleported LastFist to 1N_]
+[11Dec2024 21:34:05.178] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/25481, l='ServerLevel[world]', x=-2488.50, y=74.00, z=-347.50]
+[11Dec2024 21:34:28.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PamelaG has made the advancement [Isn't It Iron Pick]
+[11Dec2024 21:34:48.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> pq los queres encerrar en las casas
+[11Dec2024 21:34:48.377] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/25656, l='ServerLevel[world]', x=-2475.50, y=77.00, z=-348.50]
+[11Dec2024 21:34:56.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> no es mejor poner todas las camas en un hueco
+[11Dec2024 21:34:57.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> para usarlos
+[11Dec2024 21:35:00.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> si
+[11Dec2024 21:36:00.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> bro me trajiste polvo hueso
+[11Dec2024 21:36:00.369] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 21:36:00.386] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 21:36:09.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> me pediste eso?
+[11Dec2024 21:36:11.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> szs
+[11Dec2024 21:36:17.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> tengo en la mochila
+[11Dec2024 21:36:21.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> pasalo
+[11Dec2024 21:36:28.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Gave 52 [Bone] to LastFist]
+[11Dec2024 21:36:35.577] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/28408, l='ServerLevel[world]', x=-2447.50, y=80.00, z=-347.50]
+[11Dec2024 21:38:14.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> necesito 1 aldeano mas aqui metio
+[11Dec2024 21:38:38.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> arriba hay
+[11Dec2024 21:38:57.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> qjeso
+[11Dec2024 21:39:00.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> las camas
+[11Dec2024 21:39:06.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> ponlas m,as lejos
+[11Dec2024 21:39:08.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PamelaG has made the advancement [Fishy Business]
+[11Dec2024 21:39:11.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> q si no estas huevas las aggrarn
+[11Dec2024 21:39:23.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> aca vebn
+[11Dec2024 21:39:43.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> haz asi
+[11Dec2024 21:39:44.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> mira
+[11Dec2024 21:39:48.752] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2647, y=63, z=-437} BlockPos{x=-2646, y=62, z=-437}
+[11Dec2024 21:40:02.865] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of PamelaG: {disabled=false, disconnected=false, uuid=8918f011-ec17-38f1-8011-e3f2a176466a, name=PamelaG, group=null}
+[11Dec2024 21:41:00.362] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 21:41:00.379] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 21:42:19.994] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/5445, l='ServerLevel[world]', x=-2551.72, y=11.00, z=-429.25] died, message: 'Villager was slain by The Somnolence'
+[11Dec2024 21:46:00.361] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 21:46:00.380] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 21:49:25.276] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/36826, l='ServerLevel[world]', x=-805.18, y=-256.00, z=-177.14] died, message: 'Villager was killed'

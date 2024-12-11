@@ -358,11 +358,29 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-12-11 21:34:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2024-12-11 21:39:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2024-12-11 21:25:55 +0000"
     },
     "done": true
+  },
+  "friendsandfoes:husbandry/beehive": {
+    "criteria": {
+      "beehive": "2024-12-11 21:34:26 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
