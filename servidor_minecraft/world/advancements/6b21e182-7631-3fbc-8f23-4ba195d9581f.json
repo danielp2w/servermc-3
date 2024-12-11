@@ -206,6 +206,7 @@
       "minecraft:spider": "2024-12-08 20:07:04 +0000",
       "minecraft:creeper": "2024-12-10 21:33:26 +0000",
       "quark:forgotten": "2024-12-10 21:31:00 +0000",
+      "minecraft:phantom": "2024-12-11 22:45:55 +0000",
       "minecraft:witch": "2024-12-10 21:25:16 +0000",
       "minecraft:cave_spider": "2024-12-10 21:21:00 +0000",
       "minecraft:enderman": "2024-12-10 20:22:19 +0000",
@@ -700,6 +701,12 @@
       "sugarcoat_0": "2024-12-11 22:11:47 +0000"
     },
     "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2024-12-11 22:45:55 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
