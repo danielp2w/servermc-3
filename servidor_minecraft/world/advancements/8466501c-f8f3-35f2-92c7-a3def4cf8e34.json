@@ -524,15 +524,15 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/bestiary": {
-    "criteria": {
-      "bestiary": "2024-12-11 21:29:38 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2024-12-11 21:28:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/bestiary": {
+    "criteria": {
+      "bestiary": "2024-12-11 21:29:38 +0000"
     },
     "done": true
   },

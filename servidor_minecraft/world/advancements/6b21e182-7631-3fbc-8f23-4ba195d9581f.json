@@ -683,5 +683,17 @@
     },
     "done": true
   },
+  "undead_revamp2:daddy": {
+    "criteria": {
+      "daddy_0": "2024-12-11 22:12:01 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:sugarcoat": {
+    "criteria": {
+      "sugarcoat_0": "2024-12-11 22:11:47 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

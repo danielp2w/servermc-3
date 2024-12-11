@@ -370,6 +370,12 @@
     },
     "done": true
   },
+  "friendsandfoes:adventure/complete_hide_and_seek_game": {
+    "criteria": {
+      "friendsandfoes:complete_hide_and_seek_game": "2024-12-11 22:08:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2024-12-11 21:25:55 +0000"

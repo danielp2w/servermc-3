@@ -2932,3 +2932,31 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
 	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
 	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[11Dec2024 22:02:52.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Gave 128 [Dirt] to LastFist]
+[11Dec2024 22:04:29.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Gave 128 [Dirt] to LastFist]
+[11Dec2024 22:05:27.200] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/5473, l='ServerLevel[world]', x=-2553.59, y=32.00, z=-448.89] died, message: 'Villager died'
+[11Dec2024 22:06:37.747] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/49334, l='ServerLevel[world]', x=-2636.35, y=61.00, z=-435.59] died, message: 'Nitwit went up in flames'
+[11Dec2024 22:08:58.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PamelaG has made the advancement [Hide and Seek]
+[11Dec2024 22:09:20.396] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/5296, l='ServerLevel[world]', x=-2555.54, y=33.00, z=-452.18] died, message: 'Villager was slain by Sprinter'
+[11Dec2024 22:11:47.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has completed the challenge [I'm not sugar coating it]
+[11Dec2024 22:11:56.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PamelaG was shot by LastFist
+[11Dec2024 22:11:56.340] [Server thread/INFO] [tombstone/]: The player PamelaG has successfully been saved
+[11Dec2024 22:12:01.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has completed the challenge [Unfunny dad jokes]
+[11Dec2024 22:12:38.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Teleported LastFist to -802.500000, 64.000000, -177.500000]
+[11Dec2024 22:12:55.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Teleported LastFist to PamelaG]
+[11Dec2024 22:13:36.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Gave 512 [Stone Bricks] to LastFist]
+[11Dec2024 22:13:51.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> ia vengo
+[11Dec2024 22:13:52.444] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 1N_ lost connection: Disconnected
+[11Dec2024 22:13:52.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ left the game
+[11Dec2024 22:13:52.445] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client 1N_
+[11Dec2024 22:14:38.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PamelaG was shot by LastFist
+[11Dec2024 22:14:38.738] [Server thread/INFO] [tombstone/]: The player PamelaG has successfully been saved
+[11Dec2024 22:16:01.366] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 1N_[/127.157.141.99:42535] logged in with entity id 53818 at (-2626.347666379407, 65.0, -440.76589284970527)
+[11Dec2024 22:16:01.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ joined the game
+[11Dec2024 22:16:02.794] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of 1N_ (18)
+[11Dec2024 22:16:02.795] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to 1N_
+[11Dec2024 22:16:09.549] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8466501c-f8f3-35f2-92c7-a3def4cf8e34
+[11Dec2024 22:16:10.550] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8466501c-f8f3-35f2-92c7-a3def4cf8e34
+[11Dec2024 22:16:10.550] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 1N_ (8466501c-f8f3-35f2-92c7-a3def4cf8e34) successfully connected to voice chat
+[11Dec2024 22:16:44.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has reached the goal [Hunted]
+[11Dec2024 22:18:55.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has made the advancement [Hide and Seek]
