@@ -833,3 +833,48 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [11Dec2024 21:17:45.177] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/17923, l='ServerLevel[world]', x=-2492.50, y=75.00, z=-285.50]
 [11Dec2024 21:17:48.810] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/17935, l='ServerLevel[world]', x=-2476.50, y=79.00, z=-365.50]
 [11Dec2024 21:18:39.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Applied enchantment Efficiency II to LastFist's item]
+[11Dec2024 21:20:35.828] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/18707, l='ServerLevel[world]', x=-2486.50, y=75.00, z=-277.50]
+[11Dec2024 21:21:09.128] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/18834, l='ServerLevel[world]', x=-2511.50, y=73.00, z=-302.50]
+[11Dec2024 21:21:27.428] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/18919, l='ServerLevel[world]', x=-2474.50, y=79.00, z=-365.50]
+[11Dec2024 21:22:22.029] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/19180, l='ServerLevel[world]', x=-2505.50, y=71.00, z=-304.50]
+[11Dec2024 21:22:29.730] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/19202, l='ServerLevel[world]', x=-2443.50, y=77.00, z=-320.50]
+[11Dec2024 21:22:43.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported PamelaG to LastFist
+[11Dec2024 21:23:45.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> bro
+[11Dec2024 21:23:52.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> es posible quitarle todas las camas a estos aldeanos
+[11Dec2024 21:23:56.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> prq esta mrd es inmensa
+[11Dec2024 21:23:56.918] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PamelaG lost connection: Disconnected
+[11Dec2024 21:23:56.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PamelaG left the game
+[11Dec2024 21:23:56.923] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client PamelaG
+[11Dec2024 21:23:59.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> szs
+[11Dec2024 21:24:20.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> voy
+[11Dec2024 21:24:39.388] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PamelaG[/127.182.179.156:35559] logged in with entity id 19738 at (-2597.986543521, 63.0, -432.19921863827983)
+[11Dec2024 21:24:39.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PamelaG joined the game
+[11Dec2024 21:24:39.772] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of PamelaG (18)
+[11Dec2024 21:24:39.773] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to PamelaG
+[11Dec2024 21:24:44.787] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8918f011-ec17-38f1-8011-e3f2a176466a
+[11Dec2024 21:24:45.789] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8918f011-ec17-38f1-8011-e3f2a176466a
+[11Dec2024 21:24:45.789] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player PamelaG (8918f011-ec17-38f1-8011-e3f2a176466a) successfully connected to voice chat
+[11Dec2024 21:24:49.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> y las mesas
+[11Dec2024 21:24:51.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> de trabaj
+[11Dec2024 21:25:09.827] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/19956, l='ServerLevel[world]', x=-2486.50, y=74.00, z=-347.50]
+[11Dec2024 21:25:55.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PamelaG has made the advancement [Stone Age]
+[11Dec2024 21:26:13.178] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/22477, l='ServerLevel[world]', x=-2475.50, y=79.00, z=-366.50]
+[11Dec2024 21:26:18.877] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/22490, l='ServerLevel[world]', x=-2487.50, y=74.00, z=-346.50]
+[11Dec2024 21:26:48.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PamelaG drowned
+[11Dec2024 21:26:48.429] [Server thread/INFO] [tombstone/]: The player PamelaG has successfully been saved
+[11Dec2024 21:26:57.976] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/22866, l='ServerLevel[world]', x=-2486.50, y=74.00, z=-348.50]
+[11Dec2024 21:27:35.892] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Beekeeper'/5494, l='ServerLevel[world]', x=-2550.70, y=70.00, z=-392.22] died, message: 'Beekeeper was slain by Zombie'
+[11Dec2024 21:28:01.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> bro tienes hierro
+[11Dec2024 21:28:08.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> nada
+[11Dec2024 21:28:17.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> trata de encerrar
+[11Dec2024 21:28:19.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> los que puedas
+[11Dec2024 21:28:19.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> las casas que no tengan puertas
+[11Dec2024 21:28:23.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> ya les quite las cosas
+[11Dec2024 21:28:25.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> ok
+[11Dec2024 21:28:29.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> encierralos
+[11Dec2024 21:28:35.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> q mrd es eso
+[11Dec2024 21:28:37.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> un coso en caballo
+[11Dec2024 21:28:51.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [Ice Bucket Challenge]
+[11Dec2024 21:29:21.836] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/5590, l='ServerLevel[world]', x=-2688.53, y=73.00, z=-412.87] died, message: 'Villager died whilst trying to escape The Spitter'
+[11Dec2024 21:29:38.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [Book of Monsters]
+[11Dec2024 21:29:49.389] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/5553, l='ServerLevel[world]', x=-2651.30, y=73.00, z=-397.30] died, message: 'Weaponsmith was slain by Zombie'
