@@ -542,5 +542,11 @@
     },
     "done": false
   },
+  "enemyexpansion:hunted": {
+    "criteria": {
+      "hunted_0": "2024-12-11 22:16:44 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

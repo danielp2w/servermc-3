@@ -689,6 +689,12 @@
     },
     "done": true
   },
+  "friendsandfoes:adventure/complete_hide_and_seek_game": {
+    "criteria": {
+      "friendsandfoes:complete_hide_and_seek_game": "2024-12-11 22:18:55 +0000"
+    },
+    "done": true
+  },
   "undead_revamp2:sugarcoat": {
     "criteria": {
       "sugarcoat_0": "2024-12-11 22:11:47 +0000"
