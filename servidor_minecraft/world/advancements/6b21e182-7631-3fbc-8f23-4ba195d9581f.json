@@ -121,6 +121,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2024-12-12 05:39:00 +0000",
       "quark:glimmering_weald": "2024-12-12 03:44:39 +0000",
       "minecraft:cherry_grove": "2024-12-09 02:41:44 +0000",
       "minecraft:sunflower_plains": "2024-12-11 02:34:40 +0000",
@@ -131,6 +132,7 @@
       "minecraft:river": "2024-12-09 03:12:05 +0000",
       "minecraft:lukewarm_ocean": "2024-12-12 04:15:28 +0000",
       "minecraft:stony_shore": "2024-12-12 00:07:03 +0000",
+      "minecraft:dripstone_caves": "2024-12-12 05:18:29 +0000",
       "minecraft:forest": "2024-12-09 03:05:59 +0000",
       "minecraft:windswept_forest": "2024-12-11 02:21:54 +0000",
       "minecraft:ocean": "2024-12-09 03:58:35 +0000",
@@ -138,6 +140,7 @@
       "minecraft:deep_lukewarm_ocean": "2024-12-12 04:14:53 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-09 04:23:47 +0000",
       "minecraft:meadow": "2024-12-09 02:38:57 +0000",
+      "minecraft:savanna": "2024-12-12 04:32:22 +0000",
       "minecraft:plains": "2024-12-08 19:32:08 +0000"
     },
     "done": false
@@ -208,7 +211,9 @@
     "criteria": {
       "minecraft:pillager": "2024-12-12 00:03:40 +0000",
       "minecraft:skeleton": "2024-12-08 20:06:59 +0000",
+      "minecraft:elder_guardian": "2024-12-12 04:38:34 +0000",
       "minecraft:ghast": "2024-12-12 01:00:36 +0000",
+      "minecraft:guardian": "2024-12-12 04:38:15 +0000",
       "minecraft:vindicator": "2024-12-09 03:35:48 +0000",
       "minecraft:magma_cube": "2024-12-12 00:59:10 +0000",
       "minecraft:spider": "2024-12-08 20:07:04 +0000",
@@ -218,6 +223,7 @@
       "minecraft:witch": "2024-12-10 21:25:16 +0000",
       "minecraft:cave_spider": "2024-12-10 21:21:00 +0000",
       "minecraft:enderman": "2024-12-10 20:22:19 +0000",
+      "minecraft:silverfish": "2024-12-12 05:46:43 +0000",
       "minecraft:zombie": "2024-12-09 03:18:59 +0000",
       "quark:foxhound": "2024-12-12 00:56:19 +0000",
       "minecraft:drowned": "2024-12-12 04:19:29 +0000"
@@ -718,37 +724,41 @@
     },
     "done": false
   },
-  "artifacts:chest_slayer": {
+  "enemyexpansion:vampire_slayer": {
     "criteria": {
-      "kill_mimic": "2024-12-12 03:43:28 +0000"
+      "vampire_slayer_0": "2024-12-11 23:40:25 +0000"
     },
     "done": true
   },
-  "incendium:toxic_heap/nuclear_fusion": {
+  "quark:get_all_blossom_saplings": {
     "criteria": {
-      "incendium:treasure": "2024-12-12 00:57:25 +0000"
-    },
-    "done": true
-  },
-  "aether:regen_stone": {
-    "criteria": {
-      "regen_stone": "2024-12-12 03:26:30 +0000"
-    },
-    "done": true
-  },
-  "aether:gold_dungeon": {
-    "criteria": {
-      "kill_sun_spirit": "2024-12-12 03:00:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:nether_wastes": "2024-12-12 00:53:29 +0000",
-      "minecraft:basalt_deltas": "2024-12-12 00:56:30 +0000",
-      "minecraft:warped_forest": "2024-12-12 00:52:46 +0000"
+      "yellow": "2024-12-11 23:56:52 +0000"
     },
     "done": false
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-12-12 00:03:42 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2024-12-12 00:06:04 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_naga": {
+    "criteria": {
+      "naga": "2024-12-12 00:06:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2024-12-12 00:22:09 +0000"
+    },
+    "done": true
   },
   "incendium:root": {
     "criteria": {
@@ -762,9 +772,35 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-12 00:51:34 +0000"
+    },
+    "done": true
+  },
   "incendium:misc/root": {
     "criteria": {
       "incendium:inverted_forest": "2024-12-12 00:51:39 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:inverted_forest": "2024-12-12 00:51:39 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2024-12-12 00:53:29 +0000",
+      "minecraft:basalt_deltas": "2024-12-12 00:56:30 +0000",
+      "minecraft:warped_forest": "2024-12-12 00:52:46 +0000"
+    },
+    "done": false
+  },
+  "incendium:toxic_heap/nuclear_fusion": {
+    "criteria": {
+      "incendium:treasure": "2024-12-12 00:57:25 +0000"
     },
     "done": true
   },
@@ -774,27 +810,27 @@
     },
     "done": false
   },
-  "aether:phoenix_armor": {
-    "criteria": {
-      "phoenix_leggings": "2024-12-12 03:00:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enter_the_nether": {
-    "criteria": {
-      "entered_nether": "2024-12-12 00:51:34 +0000"
-    },
-    "done": true
-  },
-  "endrem:main/old_eye": {
-    "criteria": {
-      "old_eye": "2024-12-12 04:11:37 +0000"
-    },
-    "done": true
-  },
   "alexsmobs:alexsmobs/straddler": {
     "criteria": {
       "killed_by": "2024-12-12 00:59:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-12-12 01:32:20 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:nightnight": {
+    "criteria": {
+      "nightnight_0": "2024-12-12 01:47:24 +0000"
+    },
+    "done": true
+  },
+  "aether:blue_aercloud": {
+    "criteria": {
+      "blue_aercloud": "2024-12-12 02:14:53 +0000"
     },
     "done": true
   },
@@ -804,11 +840,65 @@
     },
     "done": true
   },
+  "aether:valkyrie_loot": {
+    "criteria": {
+      "valkyrie_pickaxe": "2024-12-12 02:37:26 +0000"
+    },
+    "done": true
+  },
+  "aether:gold_dungeon": {
+    "criteria": {
+      "kill_sun_spirit": "2024-12-12 03:00:09 +0000"
+    },
+    "done": true
+  },
+  "aether:phoenix_armor": {
+    "criteria": {
+      "phoenix_leggings": "2024-12-12 03:00:31 +0000"
+    },
+    "done": true
+  },
+  "aether:gravitite_armor": {
+    "criteria": {
+      "gravitite_boots": "2024-12-12 03:00:31 +0000"
+    },
+    "done": false
+  },
+  "aether:zanite": {
+    "criteria": {
+      "zanite": "2024-12-12 03:12:13 +0000"
+    },
+    "done": true
+  },
+  "aether:regen_stone": {
+    "criteria": {
+      "regen_stone": "2024-12-12 03:26:30 +0000"
+    },
+    "done": true
+  },
   "aether:obsidian_armor": {
     "criteria": {
       "obsidian_leggings": "2024-12-12 03:39:03 +0000"
     },
     "done": false
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2024-12-12 03:43:28 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2024-12-12 03:46:11 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/old_eye": {
+    "criteria": {
+      "old_eye": "2024-12-12 04:11:37 +0000"
+    },
+    "done": true
   },
   "endrem:main/root": {
     "criteria": {
@@ -822,87 +912,123 @@
     },
     "done": true
   },
-  "minecraft:adventure/voluntary_exile": {
+  "dungeons_arise:find_undead_pirate_ship": {
     "criteria": {
-      "voluntary_exile": "2024-12-12 00:03:42 +0000"
+      "location0": "2024-12-12 05:43:16 +0000"
     },
     "done": true
   },
-  "betterdungeons:small_dungeon": {
+  "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "in_better_monster_room": "2024-12-12 03:46:11 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/seagull_steal": {
-    "criteria": {
-      "ex": "2024-12-12 00:06:04 +0000"
-    },
-    "done": true
-  },
-  "aether:blue_aercloud": {
-    "criteria": {
-      "blue_aercloud": "2024-12-12 02:14:53 +0000"
-    },
-    "done": true
-  },
-  "quark:get_all_blossom_saplings": {
-    "criteria": {
-      "yellow": "2024-12-11 23:56:52 +0000"
+      "log_spam_fixer": "2024-12-12 06:15:29 +0000"
     },
     "done": false
   },
-  "undead_revamp2:nightnight": {
+  "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "nightnight_0": "2024-12-12 01:47:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/hero_of_the_village": {
-    "criteria": {
-      "hero_of_the_village": "2024-12-12 00:22:09 +0000"
-    },
-    "done": true
-  },
-  "incendium:misc/soul_searcher": {
-    "criteria": {
-      "incendium:inverted_forest": "2024-12-12 00:51:39 +0000"
+      "log_spam_fixer": "2024-12-12 06:15:29 +0000"
     },
     "done": false
   },
-  "aether:valkyrie_loot": {
+  "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "valkyrie_pickaxe": "2024-12-12 02:37:26 +0000"
+      "log_spam_fixer": "2024-12-12 06:15:29 +0000"
+    },
+    "done": false
+  },
+  "dungeons_arise:find_coliseum": {
+    "criteria": {
+      "location0": "2024-12-12 05:27:43 +0000"
     },
     "done": true
   },
-  "mowziesmobs:kill_naga": {
+  "incendium:technical/feed_ghastling": {
     "criteria": {
-      "naga": "2024-12-12 00:06:32 +0000"
+      "log_spam_fixer": "2024-12-12 06:15:29 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-12 06:15:29 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:iceandfire/use_tide_trident": {
+    "criteria": {
+      "shot_arrow": "2024-12-12 06:15:04 +0000"
     },
     "done": true
   },
-  "aether:zanite": {
+  "incendium:technical/on_player_hurt": {
     "criteria": {
-      "zanite": "2024-12-12 03:12:13 +0000"
+      "log_spam_fixer": "2024-12-12 06:15:29 +0000"
+    },
+    "done": false
+  },
+  "cataclysm:kill_leviathan": {
+    "criteria": {
+      "ignis": "2024-12-12 05:06:17 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/trade": {
+  "iceandfire:iceandfire/kill_siren": {
     "criteria": {
-      "traded": "2024-12-12 01:32:20 +0000"
+      "killed_fire_dragon": "2024-12-12 05:39:20 +0000"
     },
     "done": true
   },
-  "enemyexpansion:vampire_slayer": {
+  "alexscaves:alexscaves/root": {
     "criteria": {
-      "vampire_slayer_0": "2024-12-11 23:40:25 +0000"
+      "underground_cabin": "2024-12-12 04:35:48 +0000"
     },
     "done": true
   },
-  "aether:gravitite_armor": {
+  "dungeons_arise:find_fishing_hut": {
     "criteria": {
-      "gravitite_boots": "2024-12-12 03:00:31 +0000"
+      "location0": "2024-12-12 05:38:27 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-12 06:15:29 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-12 06:15:29 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-12 06:15:29 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:iceandfire/gorgon_head": {
+    "criteria": {
+      "bestiary": "2024-12-12 05:41:50 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-12 06:15:29 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-12 06:15:29 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-12 06:15:29 +0000"
     },
     "done": false
   },
