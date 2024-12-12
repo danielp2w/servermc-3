@@ -938,3 +938,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [12Dec2024 18:34:12.137] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 1N_ lost connection: Disconnected
 [12Dec2024 18:34:12.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ left the game
 [12Dec2024 18:34:12.138] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client 1N_
+[12Dec2024 18:48:48.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Gave 20 [Tropical Fish] to LastFist]
+[12Dec2024 18:49:52.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Gave 20 [Tropical Fish] to LastFist]
+[12Dec2024 18:50:30.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Teleported LastFist to -6561.500000, 0.500000, -1067.500000]
