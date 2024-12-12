@@ -557,9 +557,10 @@
   },
   "twilightforest:progress_yeti": {
     "criteria": {
-      "previous_progression": "2024-12-10 22:02:08 +0000"
+      "previous_progression": "2024-12-10 22:02:08 +0000",
+      "yeti": "2024-12-12 18:12:25 +0000"
     },
-    "done": false
+    "done": true
   },
   "tombstone:adventure/strong_undead": {
     "criteria": {
@@ -959,6 +960,12 @@
       "shot_arrow": "2024-12-12 06:15:04 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_glacier": {
+    "criteria": {
+      "previous_progression": "2024-12-12 18:12:25 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
