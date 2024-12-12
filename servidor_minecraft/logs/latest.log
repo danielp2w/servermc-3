@@ -761,3 +761,72 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [12Dec2024 17:42:33.347] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
 [12Dec2024 17:42:33.360] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice host is 'outdoor-bookings.gl.at.ply.gg:2148'
 [12Dec2024 17:42:33.362] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 2148
+[12Dec2024 17:51:59.721] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[12Dec2024 17:51:59.847] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LastFist[/127.175.198.153:60019] logged in with entity id 14695 at (-2617.9454765455107, 80.0, -275.8549364921337)
+[12Dec2024 17:51:59.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist joined the game
+[12Dec2024 17:52:02.846] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of LastFist (18)
+[12Dec2024 17:52:02.849] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to LastFist
+[12Dec2024 17:52:19.052] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 6b21e182-7631-3fbc-8f23-4ba195d9581f
+[12Dec2024 17:52:20.048] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 6b21e182-7631-3fbc-8f23-4ba195d9581f
+[12Dec2024 17:52:20.052] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player LastFist (6b21e182-7631-3fbc-8f23-4ba195d9581f) successfully connected to voice chat
+[12Dec2024 17:52:36.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Teleported LastFist to -801.500000, 64.500000, -177.500000]
+[12Dec2024 17:54:57.766] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 1N_[/127.157.141.99:36305] logged in with entity id 15658 at (-799.923762450088, 64.0, -176.72584320908993)
+[12Dec2024 17:54:57.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ joined the game
+[12Dec2024 17:54:58.936] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of 1N_ (18)
+[12Dec2024 17:54:58.937] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to 1N_
+[12Dec2024 17:55:05.765] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8466501c-f8f3-35f2-92c7-a3def4cf8e34
+[12Dec2024 17:55:06.768] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8466501c-f8f3-35f2-92c7-a3def4cf8e34
+[12Dec2024 17:55:06.769] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 1N_ (8466501c-f8f3-35f2-92c7-a3def4cf8e34) successfully connected to voice chat
+[12Dec2024 17:55:39.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ was slain by LastFist
+[12Dec2024 17:55:39.626] [Server thread/INFO] [tombstone/]: The player 1N_ has successfully been saved
+[12Dec2024 17:56:01.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> wtf y mi armadura
+[12Dec2024 17:56:19.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> ¿¿
+[12Dec2024 17:56:20.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> mochila?
+[12Dec2024 17:56:21.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> MOVISTE ALGO
+[12Dec2024 17:56:23.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> en vanidad?
+[12Dec2024 17:56:24.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> no
+[12Dec2024 17:56:35.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> no quite ningun mod no hice nada
+[12Dec2024 17:56:43.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> tenes una mochila en la mano
+[12Dec2024 17:56:54.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> tas abriendo esa
+[12Dec2024 17:57:11.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> NO LA TENGO
+[12Dec2024 17:57:13.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> si algo te la hago
+[12Dec2024 17:57:16.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> seguro?
+[12Dec2024 17:57:17.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> en los cofres
+[12Dec2024 17:57:19.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> SE ME BORRO
+[12Dec2024 17:57:32.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> NO QUE PUTA RE MIERDA
+[12Dec2024 17:57:36.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> te hago una
+[12Dec2024 17:57:39.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> con comandos
+[12Dec2024 17:57:46.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> era ful diamond p4?
+[12Dec2024 17:57:51.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> PROTE4 Y MENDING
+[12Dec2024 17:57:53.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> EL CASCO
+[12Dec2024 17:57:54.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> dale
+[12Dec2024 17:57:55.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> ERA DE UN COSO
+[12Dec2024 17:58:04.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Gave 1 [Diamond Leggings] to LastFist]
+[12Dec2024 17:58:10.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Gave 1 [Diamond Chestplate] to LastFist]
+[12Dec2024 17:58:21.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> el casco
+[12Dec2024 17:58:24.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> no recuerdo el nombre
+[12Dec2024 17:58:25.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> tu q
+[12Dec2024 17:58:26.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Gave 1 [Diamond Boots] to LastFist]
+[12Dec2024 17:58:28.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> era de cachos
+[12Dec2024 17:58:31.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> ee
+[12Dec2024 17:58:33.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> el del twilight
+[12Dec2024 17:58:35.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> yava
+[12Dec2024 17:58:59.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> WTF
+[12Dec2024 17:59:02.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> PQ SE BORRO
+[12Dec2024 17:59:04.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> AYER LA TENIA
+[12Dec2024 17:59:15.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> ni idea
+[12Dec2024 17:59:20.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> yo spawnee en el mismo sitio
+[12Dec2024 17:59:32.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> no se hizo ningun reset
+[12Dec2024 17:59:38.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> tengo todos mis amuletos
+[12Dec2024 17:59:53.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Applied enchantment Protection IV to LastFist's item]
+[12Dec2024 17:59:56.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Applied enchantment Protection IV to LastFist's item]
+[12Dec2024 18:00:02.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Applied enchantment Protection IV to LastFist's item]
+[12Dec2024 18:00:04.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> q armor es esa
+[12Dec2024 18:00:07.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> diamante
+[12Dec2024 18:00:11.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> la tuya
+[12Dec2024 18:00:25.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> de dragon
+[12Dec2024 18:00:28.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> de escamas de dragon
+[12Dec2024 18:00:33.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Applied enchantment Mending to LastFist's item]
+[12Dec2024 18:00:35.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Applied enchantment Mending to LastFist's item]
+[12Dec2024 18:00:36.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Applied enchantment Mending to LastFist's item]
+[12Dec2024 18:00:45.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Applied enchantment Unbreaking III to LastFist's item]
