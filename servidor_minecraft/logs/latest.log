@@ -911,3 +911,30 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [12Dec2024 18:20:58.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> tengo q buscar como es entonces
 [12Dec2024 18:20:59.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> afk
 [12Dec2024 18:21:14.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> no me deja agarralo
+[12Dec2024 18:21:58.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> le pege
+[12Dec2024 18:22:05.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> lo mato
+[12Dec2024 18:22:20.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> amano
+[12Dec2024 18:22:22.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> rejoin
+[12Dec2024 18:22:29.471] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 1N_ lost connection: Disconnected
+[12Dec2024 18:22:29.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ left the game
+[12Dec2024 18:22:29.476] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client 1N_
+[12Dec2024 18:22:52.550] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 1N_[/127.157.141.99:38723] logged in with entity id 48121 at (-797.6999999880791, 68.0, -170.30000001192093)
+[12Dec2024 18:22:52.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ joined the game
+[12Dec2024 18:22:52.959] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of 1N_ (18)
+[12Dec2024 18:22:52.960] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to 1N_
+[12Dec2024 18:22:58.392] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8466501c-f8f3-35f2-92c7-a3def4cf8e34
+[12Dec2024 18:22:59.394] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8466501c-f8f3-35f2-92c7-a3def4cf8e34
+[12Dec2024 18:22:59.395] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 1N_ (8466501c-f8f3-35f2-92c7-a3def4cf8e34) successfully connected to voice chat
+[12Dec2024 18:23:21.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> tienen q estar en un cubo
+[12Dec2024 18:23:48.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [Tactical Fishing]
+[12Dec2024 18:26:14.014] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/49428, l='ServerLevel[world]', x=-1177.50, y=76.00, z=-352.50]
+[12Dec2024 18:26:17.164] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/49462, l='ServerLevel[world]', x=-1119.50, y=75.00, z=-414.50]
+[12Dec2024 18:26:55.715] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/49874, l='ServerLevel[world]', x=-1143.50, y=74.00, z=-370.50]
+[12Dec2024 18:31:32.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> TP
+[12Dec2024 18:31:34.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> TP
+[12Dec2024 18:32:08.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [It Belongs in a Museum]
+[12Dec2024 18:32:27.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> TP
+[12Dec2024 18:33:20.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> TP
+[12Dec2024 18:34:12.137] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 1N_ lost connection: Disconnected
+[12Dec2024 18:34:12.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ left the game
+[12Dec2024 18:34:12.138] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client 1N_
