@@ -1018,3 +1018,16 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [14Dec2024 07:38:44.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Teleported LastFist to -502.510000, 100.000000, 1037.000000]
 [14Dec2024 07:39:23.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Teleported 2 entities to LastFist]
 [14Dec2024 07:39:56.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has made the advancement [We Do a Little Trolling]
+[14Dec2024 07:43:58.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PamelaG has made the advancement [We Do a Little Trolling]
+[14Dec2024 07:45:07.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Teleported 2 entities to LastFist]
+[14Dec2024 07:45:38.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PamelaG has reached the goal [Jack and the Beanstalk]
+[14Dec2024 07:47:19.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PamelaG fell from a high place
+[14Dec2024 07:47:19.500] [Server thread/INFO] [tombstone/]: The player PamelaG has successfully been saved
+[14Dec2024 07:48:39.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Teleported 2 entities to LastFist]
+[14Dec2024 07:49:05.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PamelaG has reached the goal [I'm on Cloud Nine]
+[14Dec2024 07:49:18.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has reached the goal [I'm on Cloud Nine]
+[14Dec2024 07:51:06.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has reached the goal [I Wish For More Burning]
+[14Dec2024 07:51:56.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Teleported LastFist to -511.124371, 100.000000, 1020.331854]
+[14Dec2024 07:52:05.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Teleported 2 entities to LastFist]
+[14Dec2024 07:52:07.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PamelaG was doomed to fall by Troll
+[14Dec2024 07:52:07.402] [Server thread/INFO] [tombstone/]: The player PamelaG has successfully been saved

@@ -1014,15 +1014,17 @@
   },
   "twilightforest:giants": {
     "criteria": {
-      "pickaxe": "2024-12-14 07:40:47 +0000"
+      "pickaxe": "2024-12-14 07:40:47 +0000",
+      "giant": "2024-12-14 07:49:18 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:progress_troll": {
     "criteria": {
-      "previous_progression": "2024-12-14 07:29:45 +0000"
+      "previous_progression": "2024-12-14 07:29:45 +0000",
+      "lamp": "2024-12-14 07:51:06 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:troll": {
     "criteria": {
@@ -1041,6 +1043,12 @@
       "activate_ghast_trap": "2024-12-14 05:28:19 +0000"
     },
     "done": true
+  },
+  "twilightforest:progression_end": {
+    "criteria": {
+      "previous_progression": "2024-12-14 07:51:06 +0000"
+    },
+    "done": false
   },
   "twilightforest:break_glass_sword": {
     "criteria": {

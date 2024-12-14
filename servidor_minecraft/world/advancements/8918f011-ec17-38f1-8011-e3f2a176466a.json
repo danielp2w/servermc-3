@@ -285,6 +285,7 @@
   "twilightforest:arborist": {
     "criteria": {
       "darkwood_sapling": "2024-12-14 07:14:18 +0000",
+      "huge_stalk": "2024-12-14 07:45:53 +0000",
       "twilight_oak_sapling": "2024-12-10 05:41:39 +0000",
       "canopy_log": "2024-12-14 05:20:16 +0000"
     },
@@ -683,10 +684,24 @@
     },
     "done": false
   },
+  "twilightforest:beanstalk": {
+    "criteria": {
+      "beans": "2024-12-14 07:45:23 +0000",
+      "use_beans": "2024-12-14 07:45:38 +0000"
+    },
+    "done": true
+  },
   "twilightforest:progress_trophy_pedestal": {
     "criteria": {
       "kill_lich": "2024-12-14 06:25:07 +0000",
       "trophy_pedestal": "2024-12-14 06:48:28 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:giants": {
+    "criteria": {
+      "pickaxe": "2024-12-14 07:45:23 +0000",
+      "giant": "2024-12-14 07:49:05 +0000"
     },
     "done": true
   },
@@ -714,6 +729,12 @@
   "aether:regen_stone": {
     "criteria": {
       "regen_stone": "2024-12-14 06:25:18 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:troll": {
+    "criteria": {
+      "troll": "2024-12-14 07:43:58 +0000"
     },
     "done": true
   },
