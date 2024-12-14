@@ -1009,3 +1009,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [14Dec2024 07:31:50.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Applied enchantment Infinity to LastFist's item]
 [14Dec2024 07:31:59.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Applied enchantment Power V to LastFist's item]
 [14Dec2024 07:32:07.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Applied enchantment Unbreaking III to LastFist's item]
+[14Dec2024 07:33:47.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Teleported 2 entities to LastFist]
+[14Dec2024 07:38:13.776] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element twilightforest:troll_cave took 6 ms
+[14Dec2024 07:38:20.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Gamerule sendCommandFeedback is now set to: true]
+[14Dec2024 07:38:22.213] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element twilightforest:troll_cave took 0 ms
+[14Dec2024 07:38:25.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Teleported LastFist to -502.500000, 5.000000, 1032.500000]
+[14Dec2024 07:38:38.759] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 4 in "main" inventory handler
+[14Dec2024 07:38:44.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Teleported LastFist to -502.510000, 100.000000, 1037.000000]
+[14Dec2024 07:39:23.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Teleported 2 entities to LastFist]
+[14Dec2024 07:39:56.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has made the advancement [We Do a Little Trolling]

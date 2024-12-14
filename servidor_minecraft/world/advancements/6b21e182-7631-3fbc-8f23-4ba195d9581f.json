@@ -1006,11 +1006,29 @@
     },
     "done": false
   },
+  "twilightforest:beanstalk": {
+    "criteria": {
+      "beans": "2024-12-14 07:40:47 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:giants": {
+    "criteria": {
+      "pickaxe": "2024-12-14 07:40:47 +0000"
+    },
+    "done": false
+  },
   "twilightforest:progress_troll": {
     "criteria": {
       "previous_progression": "2024-12-14 07:29:45 +0000"
     },
     "done": false
+  },
+  "twilightforest:troll": {
+    "criteria": {
+      "troll": "2024-12-14 07:39:56 +0000"
+    },
+    "done": true
   },
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
