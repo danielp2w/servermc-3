@@ -955,3 +955,14 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [14Dec2024 07:00:13.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Teleported 2 entities to LastFist]
 [14Dec2024 07:00:42.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Teleported 2 entities to LastFist]
 [14Dec2024 07:01:07.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Gamerule sendCommandFeedback is now set to: false]
+[14Dec2024 07:01:54.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Applied enchantment Mending to LastFist's item]
+[14Dec2024 07:03:21.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Teleported 2 entities to LastFist]
+[14Dec2024 07:03:28.962] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LastFist moved wrongly!
+[14Dec2024 07:03:53.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Teleported 2 entities to LastFist]
+[14Dec2024 07:04:56.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Teleported 2 entities to LastFist]
+[14Dec2024 07:07:32.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PamelaG was scalded by fiery tears
+[14Dec2024 07:07:32.703] [Server thread/INFO] [tombstone/]: The player PamelaG has successfully been saved
+[14Dec2024 07:08:06.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PamelaG was scalded by fiery tears
+[14Dec2024 07:08:06.199] [Server thread/INFO] [tombstone/]: The player PamelaG has successfully been saved
+[14Dec2024 07:09:37.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PamelaG has made the advancement [Something Strange in Towerwood]
+[14Dec2024 07:11:42.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PamelaG has reached the goal [Tears of Fire]

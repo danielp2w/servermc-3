@@ -726,6 +726,12 @@
     },
     "done": false
   },
+  "twilightforest:ghast_trap": {
+    "criteria": {
+      "activate_ghast_trap": "2024-12-14 07:09:37 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/strong_undead": {
     "criteria": {
       "coded_trigger": "2024-12-14 06:58:29 +0000"
