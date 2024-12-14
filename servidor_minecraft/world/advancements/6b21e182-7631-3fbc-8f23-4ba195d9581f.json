@@ -970,9 +970,10 @@
   },
   "twilightforest:progress_glacier": {
     "criteria": {
-      "previous_progression": "2024-12-12 18:12:25 +0000"
+      "previous_progression": "2024-12-12 18:12:25 +0000",
+      "queen": "2024-12-14 07:29:45 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:progress_hydra": {
     "criteria": {
@@ -991,9 +992,10 @@
   "twilightforest:progress_merge": {
     "criteria": {
       "hydra": "2024-12-12 19:35:51 +0000",
+      "snow_queen": "2024-12-14 07:29:45 +0000",
       "ur_ghast": "2024-12-14 05:31:09 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:fiery_set": {
     "criteria": {
@@ -1001,6 +1003,12 @@
       "fiery_helmet": "2024-12-14 05:47:23 +0000",
       "fiery_chestplate": "2024-12-14 05:47:52 +0000",
       "fiery_leggings": "2024-12-14 05:47:22 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:progress_troll": {
+    "criteria": {
+      "previous_progression": "2024-12-14 07:29:45 +0000"
     },
     "done": false
   },
@@ -1013,6 +1021,12 @@
   "twilightforest:ghast_trap": {
     "criteria": {
       "activate_ghast_trap": "2024-12-14 05:28:19 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:break_glass_sword": {
+    "criteria": {
+      "broken_sword": "2024-12-14 07:26:15 +0000"
     },
     "done": true
   },

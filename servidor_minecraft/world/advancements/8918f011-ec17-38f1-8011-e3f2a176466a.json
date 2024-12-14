@@ -689,12 +689,19 @@
     },
     "done": true
   },
+  "twilightforest:progress_troll": {
+    "criteria": {
+      "previous_progression": "2024-12-14 07:29:45 +0000"
+    },
+    "done": false
+  },
   "twilightforest:progress_merge": {
     "criteria": {
       "hydra": "2024-12-14 06:34:51 +0000",
+      "snow_queen": "2024-12-14 07:29:45 +0000",
       "ur_ghast": "2024-12-14 07:11:42 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:progress_knights": {
     "criteria": {
@@ -737,9 +744,10 @@
   },
   "twilightforest:progress_glacier": {
     "criteria": {
-      "previous_progression": "2024-12-14 07:19:30 +0000"
+      "previous_progression": "2024-12-14 07:19:30 +0000",
+      "was_in_fight": "2024-12-14 07:29:45 +0000"
     },
-    "done": false
+    "done": true
   },
   "tombstone:adventure/strong_undead": {
     "criteria": {

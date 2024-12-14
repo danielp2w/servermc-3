@@ -8181,3 +8181,23 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [14Dec2024 07:21:14.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Teleported 2 entities to LastFist]
 [14Dec2024 07:21:44.429] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [14Dec2024 07:21:44.447] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Dec2024 07:26:15.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has completed the challenge [One Hit Wonder]
+[14Dec2024 07:26:44.427] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Dec2024 07:26:44.444] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Dec2024 07:28:45.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Teleported 2 entities to LastFist]
+[14Dec2024 07:28:51.395] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=268, y=180, z=467} BlockPos{x=269, y=179, z=467}
+[14Dec2024 07:28:51.444] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=268, y=180, z=467} BlockPos{x=269, y=179, z=467}
+[14Dec2024 07:28:51.494] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=268, y=180, z=467} BlockPos{x=269, y=179, z=467}
+[14Dec2024 07:28:51.546] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=268, y=180, z=467} BlockPos{x=269, y=179, z=467}
+[14Dec2024 07:28:51.594] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=268, y=180, z=467} BlockPos{x=269, y=179, z=467}
+[14Dec2024 07:28:51.641] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=268, y=180, z=467} BlockPos{x=269, y=179, z=467}
+[14Dec2024 07:29:45.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has reached the goal [Clear Skies]
+[14Dec2024 07:29:45.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PamelaG has reached the goal [Clear Skies]
+[14Dec2024 07:29:45.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has reached the goal [Ultimate Showdown]
+[14Dec2024 07:29:45.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PamelaG has reached the goal [Ultimate Showdown]
+[14Dec2024 07:31:30.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Gamerule sendCommandFeedback is now set to: false]
+[14Dec2024 07:31:44.430] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Dec2024 07:31:44.459] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Dec2024 07:31:50.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Applied enchantment Infinity to LastFist's item]
+[14Dec2024 07:31:59.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Applied enchantment Power V to LastFist's item]
+[14Dec2024 07:32:07.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Applied enchantment Unbreaking III to LastFist's item]
