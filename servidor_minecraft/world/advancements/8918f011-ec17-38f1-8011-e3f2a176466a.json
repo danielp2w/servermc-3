@@ -270,9 +270,10 @@
   },
   "twilightforest:progress_lich": {
     "criteria": {
-      "kill_naga": "2024-12-10 05:25:20 +0000"
+      "kill_naga": "2024-12-10 05:25:20 +0000",
+      "was_in_fight": "2024-12-14 06:25:07 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:story/obtain_armor": {
     "criteria": {
@@ -652,13 +653,15 @@
   },
   "twilightforest:progress_labyrinth": {
     "criteria": {
-      "meef": "2024-12-14 05:16:00 +0000"
+      "meef": "2024-12-14 05:16:00 +0000",
+      "kill_lich": "2024-12-14 06:25:07 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:twilight_dinner": {
     "criteria": {
-      "meef_stroganoff": "2024-12-14 05:16:00 +0000"
+      "meef_stroganoff": "2024-12-14 05:16:00 +0000",
+      "hydra_chop": "2024-12-14 06:17:50 +0000"
     },
     "done": false
   },
@@ -674,6 +677,30 @@
       "fiery_helmet": "2024-12-14 05:48:17 +0000",
       "fiery_chestplate": "2024-12-14 05:48:11 +0000",
       "fiery_leggings": "2024-12-14 05:48:13 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:progress_trophy_pedestal": {
+    "criteria": {
+      "kill_lich": "2024-12-14 06:25:07 +0000"
+    },
+    "done": false
+  },
+  "aether:regen_stone": {
+    "criteria": {
+      "regen_stone": "2024-12-14 06:25:18 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_hydra": {
+    "criteria": {
+      "stroganoff": "2024-12-14 06:25:07 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:progress_yeti": {
+    "criteria": {
+      "previous_progression": "2024-12-14 06:25:07 +0000"
     },
     "done": false
   },
