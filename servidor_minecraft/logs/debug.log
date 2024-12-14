@@ -8007,3 +8007,40 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [14Dec2024 05:58:12.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Summoned new Dwarf Rabbit]
 [14Dec2024 05:58:14.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Summoned new Dwarf Rabbit]
 [14Dec2024 05:58:16.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Summoned new Dwarf Rabbit]
+[14Dec2024 06:01:39.580] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Dec2024 06:01:39.598] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Dec2024 06:03:45.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PamelaG was exterminated by The Baby Leviathan 's laser
+[14Dec2024 06:03:45.884] [Server thread/DEBUG] [tombstone/]: A new grave of the player PamelaG was created at position [x:-819, y:63, z:-176, dim:minecraft:overworld]
+[14Dec2024 06:03:45.889] [Server thread/INFO] [tombstone/]: The player PamelaG has successfully been saved
+[14Dec2024 06:03:46.994] [Server thread/DEBUG] [twilightforest/]: Player PamelaG (8918f011-ec17-38f1-8011-e3f2a176466a) respawned and received items held in storage
+[14Dec2024 06:04:16.837] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-807, y=63, z=-195}
+[14Dec2024 06:04:37.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PamelaG was exterminated by The Baby Leviathan 's laser
+[14Dec2024 06:04:37.190] [Server thread/DEBUG] [tombstone/]: A new grave of the player PamelaG was created at position [x:-808, y:63, z:-191, dim:minecraft:overworld]
+[14Dec2024 06:04:37.196] [Server thread/INFO] [tombstone/]: The player PamelaG has successfully been saved
+[14Dec2024 06:04:38.397] [Server thread/DEBUG] [twilightforest/]: Player PamelaG (8918f011-ec17-38f1-8011-e3f2a176466a) respawned and received items held in storage
+[14Dec2024 06:05:33.440] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-812, y=63, z=-195}
+[14Dec2024 06:06:06.789] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-813, y=63, z=-197}
+[14Dec2024 06:06:06.836] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-813, y=63, z=-196}
+[14Dec2024 06:06:39.579] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Dec2024 06:06:39.595] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Dec2024 06:06:53.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PamelaG was exterminated by The Baby Leviathan 's laser
+[14Dec2024 06:06:53.286] [Server thread/DEBUG] [tombstone/]: A new grave of the player PamelaG was created at position [x:-828, y:62, z:-180, dim:minecraft:overworld]
+[14Dec2024 06:06:53.292] [Server thread/INFO] [tombstone/]: The player PamelaG has successfully been saved
+[14Dec2024 06:06:54.445] [Server thread/DEBUG] [twilightforest/]: Player PamelaG (8918f011-ec17-38f1-8011-e3f2a176466a) respawned and received items held in storage
+[14Dec2024 06:07:01.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Gave 1 [Tropical Fish] to LastFist]
+[14Dec2024 06:07:16.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PamelaG was exterminated by The Baby Leviathan 's laser
+[14Dec2024 06:07:16.234] [Server thread/DEBUG] [tombstone/]: A new grave of the player PamelaG was created at position [x:-830, y:62, z:-184, dim:minecraft:overworld]
+[14Dec2024 06:07:16.252] [Server thread/INFO] [tombstone/]: The player PamelaG has successfully been saved
+[14Dec2024 06:07:17.445] [Server thread/DEBUG] [twilightforest/]: Player PamelaG (8918f011-ec17-38f1-8011-e3f2a176466a) respawned and received items held in storage
+[14Dec2024 06:07:23.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Gave 20 [Tropical Fish] to LastFist]
+[14Dec2024 06:07:59.389] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-825, y=62, z=-198}
+[14Dec2024 06:07:59.796] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-825, y=62, z=-200}
+[14Dec2024 06:08:01.128] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-826, y=62, z=-198}
+[14Dec2024 06:08:01.338] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-825, y=62, z=-198}
+[14Dec2024 06:08:02.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Gave 64 [Tropical Fish] to LastFist]
+[14Dec2024 06:08:04.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PamelaG was exterminated by The Baby Leviathan 's laser
+[14Dec2024 06:08:04.932] [Server thread/DEBUG] [tombstone/]: A new grave of the player PamelaG was created at position [x:-818, y:64, z:-198, dim:minecraft:overworld]
+[14Dec2024 06:08:04.939] [Server thread/INFO] [tombstone/]: The player PamelaG has successfully been saved
+[14Dec2024 06:08:06.464] [Server thread/DEBUG] [twilightforest/]: Player PamelaG (8918f011-ec17-38f1-8011-e3f2a176466a) respawned and received items held in storage
+[14Dec2024 06:08:22.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Summoned new Wolf]
+[14Dec2024 06:09:51.630] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-6652, y=4, z=-1351}
