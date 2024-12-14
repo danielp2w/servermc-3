@@ -829,3 +829,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [14Dec2024 05:28:19.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has made the advancement [Something Strange in Towerwood]
 [14Dec2024 05:28:38.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PamelaG was slain by Zombie
 [14Dec2024 05:28:38.808] [Server thread/INFO] [tombstone/]: The player PamelaG has successfully been saved
+[14Dec2024 05:31:09.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has reached the goal [Tears of Fire]
+[14Dec2024 05:31:43.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Teleported LastFist to PamelaG]
+[14Dec2024 05:31:53.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PamelaG was slain by LastFist
+[14Dec2024 05:31:53.434] [Server thread/INFO] [tombstone/]: The player PamelaG has successfully been saved
+[14Dec2024 05:38:34.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Gave 1 [Ur-Ghast Trophy] to LastFist]
+[14Dec2024 05:40:17.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Teleported LastFist to PamelaG]
