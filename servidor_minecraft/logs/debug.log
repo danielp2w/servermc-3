@@ -8235,3 +8235,44 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [14Dec2024 07:52:07.397] [Server thread/DEBUG] [tombstone/]: A new grave of the player PamelaG was created at position [x:-516, y:26, z:1029, dim:twilightforest:twilight_forest]
 [14Dec2024 07:52:07.402] [Server thread/INFO] [tombstone/]: The player PamelaG has successfully been saved
 [14Dec2024 07:52:13.407] [Server thread/DEBUG] [twilightforest/]: Player PamelaG (8918f011-ec17-38f1-8011-e3f2a176466a) respawned and received items held in storage
+[14Dec2024 07:54:07.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PamelaG has reached the goal [I Wish For More Burning]
+[14Dec2024 07:54:57.114] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-497, y=56, z=1129} BlockPos{x=-496, y=55, z=1131}
+[14Dec2024 07:55:01.499] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-498, y=56, z=1132} BlockPos{x=-497, y=56, z=1132}
+[14Dec2024 07:55:03.356] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-495, y=56, z=1135} BlockPos{x=-495, y=58, z=1135}
+[14Dec2024 07:55:12.036] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-496, y=54, z=1141} BlockPos{x=-497, y=55, z=1140}
+[14Dec2024 07:55:12.054] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-496, y=54, z=1141} BlockPos{x=-497, y=55, z=1140}
+[14Dec2024 07:55:17.641] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-490, y=56, z=1144} BlockPos{x=-489, y=56, z=1144}
+[14Dec2024 07:55:17.704] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-490, y=56, z=1144} BlockPos{x=-489, y=56, z=1144}
+[14Dec2024 07:55:19.097] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-489, y=56, z=1145} BlockPos{x=-489, y=56, z=1147}
+[14Dec2024 07:55:19.154] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-489, y=56, z=1145} BlockPos{x=-489, y=56, z=1147}
+[14Dec2024 07:55:19.197] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-489, y=56, z=1145} BlockPos{x=-489, y=56, z=1147}
+[14Dec2024 07:55:23.905] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-490, y=55, z=1147} BlockPos{x=-489, y=54, z=1149}
+[14Dec2024 07:55:27.246] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-490, y=56, z=1150} BlockPos{x=-490, y=55, z=1150}
+[14Dec2024 07:55:27.299] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-490, y=56, z=1150} BlockPos{x=-490, y=55, z=1150}
+[14Dec2024 07:55:27.347] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-490, y=56, z=1150} BlockPos{x=-490, y=55, z=1150}
+[14Dec2024 07:55:27.396] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-490, y=56, z=1150} BlockPos{x=-490, y=55, z=1150}
+[14Dec2024 07:55:27.452] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-490, y=56, z=1150} BlockPos{x=-490, y=55, z=1150}
+[14Dec2024 07:55:27.505] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-490, y=56, z=1150} BlockPos{x=-490, y=55, z=1150}
+[14Dec2024 07:55:27.546] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-490, y=56, z=1150} BlockPos{x=-490, y=55, z=1150}
+[14Dec2024 07:55:30.948] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-486, y=57, z=1153} BlockPos{x=-486, y=56, z=1153}
+[14Dec2024 07:55:30.993] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-486, y=57, z=1153} BlockPos{x=-486, y=56, z=1153}
+[14Dec2024 07:55:31.097] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-487, y=57, z=1155} BlockPos{x=-488, y=57, z=1153}
+[14Dec2024 07:55:31.154] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-487, y=57, z=1155} BlockPos{x=-489, y=57, z=1153}
+[14Dec2024 07:55:49.485] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-479, y=56, z=1162} BlockPos{x=-480, y=55, z=1165}
+[14Dec2024 07:56:44.419] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Dec2024 07:56:44.437] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Dec2024 07:57:18.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Teleported 2 entities to LastFist]
+[14Dec2024 07:59:40.476] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LastFist lost connection: Disconnected
+[14Dec2024 07:59:40.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist left the game
+[14Dec2024 07:59:40.477] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of LastFist
+[14Dec2024 07:59:40.477] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client LastFist
+[14Dec2024 08:01:05.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PamelaG fell from a high place
+[14Dec2024 08:01:05.412] [Server thread/DEBUG] [tombstone/]: A new grave of the player PamelaG was created at position [x:-450, y:98, z:1236, dim:twilightforest:twilight_forest]
+[14Dec2024 08:01:05.417] [Server thread/INFO] [tombstone/]: The player PamelaG has successfully been saved
+[14Dec2024 08:01:06.655] [Server thread/DEBUG] [twilightforest/]: Player PamelaG (8918f011-ec17-38f1-8011-e3f2a176466a) respawned and received items held in storage
+[14Dec2024 08:01:15.581] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PamelaG lost connection: Disconnected
+[14Dec2024 08:01:15.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PamelaG left the game
+[14Dec2024 08:01:15.583] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of PamelaG
+[14Dec2024 08:01:15.583] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client PamelaG
+[14Dec2024 08:01:44.366] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Dec2024 08:01:44.382] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
