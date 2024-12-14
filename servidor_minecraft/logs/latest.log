@@ -926,3 +926,16 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [14Dec2024 06:30:38.443] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element twilightforest:hydra_lair took 7 ms
 [14Dec2024 06:30:42.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Teleported LastFist to 504.500000, 12.000000, -454.500000]
 [14Dec2024 06:30:55.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Teleported 2 entities to LastFist]
+[14Dec2024 06:32:21.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PamelaG was roasted alive by the Hydra
+[14Dec2024 06:32:21.687] [Server thread/INFO] [tombstone/]: The player PamelaG has successfully been saved
+[14Dec2024 06:32:25.712] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2240ms or 44 ticks behind
+[14Dec2024 06:33:04.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PamelaG's skin was ripped off by the Hydra
+[14Dec2024 06:33:04.846] [Server thread/INFO] [tombstone/]: The player PamelaG has successfully been saved
+[14Dec2024 06:33:34.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PamelaG has made the advancement [Take Aim]
+[14Dec2024 06:34:51.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PamelaG has reached the goal [Hydra Slayer]
+[14Dec2024 06:36:42.867] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element twilightforest:dark_tower took 6 ms
+[14Dec2024 06:36:47.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Teleported LastFist to 1512.500000, 1.000000, 504.500000]
+[14Dec2024 06:37:26.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Teleported 2 entities to LastFist]
+[14Dec2024 06:38:01.064] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element twilightforest:labyrinth took 6 ms
+[14Dec2024 06:38:04.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Teleported LastFist to 2040.500000, 6.000000, 280.500000]
+[14Dec2024 06:38:13.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Teleported 2 entities to LastFist]

@@ -686,6 +686,12 @@
     },
     "done": false
   },
+  "twilightforest:progress_merge": {
+    "criteria": {
+      "hydra": "2024-12-14 06:34:51 +0000"
+    },
+    "done": false
+  },
   "aether:regen_stone": {
     "criteria": {
       "regen_stone": "2024-12-14 06:25:18 +0000"
@@ -694,9 +700,16 @@
   },
   "twilightforest:progress_hydra": {
     "criteria": {
-      "stroganoff": "2024-12-14 06:25:07 +0000"
+      "stroganoff": "2024-12-14 06:25:07 +0000",
+      "was_in_fight": "2024-12-14 06:34:51 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-12-14 06:33:34 +0000"
+    },
+    "done": true
   },
   "twilightforest:progress_yeti": {
     "criteria": {
