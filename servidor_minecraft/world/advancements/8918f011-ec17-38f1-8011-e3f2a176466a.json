@@ -682,13 +682,20 @@
   },
   "twilightforest:progress_trophy_pedestal": {
     "criteria": {
-      "kill_lich": "2024-12-14 06:25:07 +0000"
+      "kill_lich": "2024-12-14 06:25:07 +0000",
+      "trophy_pedestal": "2024-12-14 06:48:28 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:progress_merge": {
     "criteria": {
       "hydra": "2024-12-14 06:34:51 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:progress_knights": {
+    "criteria": {
+      "previous_progression": "2024-12-14 06:48:28 +0000"
     },
     "done": false
   },
