@@ -283,6 +283,7 @@
   },
   "twilightforest:arborist": {
     "criteria": {
+      "darkwood_sapling": "2024-12-14 07:14:18 +0000",
       "twilight_oak_sapling": "2024-12-10 05:41:39 +0000",
       "canopy_log": "2024-12-14 05:20:16 +0000"
     },
@@ -690,7 +691,8 @@
   },
   "twilightforest:progress_merge": {
     "criteria": {
-      "hydra": "2024-12-14 06:34:51 +0000"
+      "hydra": "2024-12-14 06:34:51 +0000",
+      "ur_ghast": "2024-12-14 07:11:42 +0000"
     },
     "done": false
   },
@@ -722,15 +724,22 @@
   },
   "twilightforest:progress_yeti": {
     "criteria": {
-      "previous_progression": "2024-12-14 06:25:07 +0000"
+      "previous_progression": "2024-12-14 06:25:07 +0000",
+      "was_in_fight": "2024-12-14 07:19:30 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:ghast_trap": {
     "criteria": {
       "activate_ghast_trap": "2024-12-14 07:09:37 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_glacier": {
+    "criteria": {
+      "previous_progression": "2024-12-14 07:19:30 +0000"
+    },
+    "done": false
   },
   "tombstone:adventure/strong_undead": {
     "criteria": {
@@ -740,9 +749,10 @@
   },
   "twilightforest:progress_ur_ghast": {
     "criteria": {
-      "previous_progression": "2024-12-14 06:58:33 +0000"
+      "previous_progression": "2024-12-14 06:58:33 +0000",
+      "was_in_fight": "2024-12-14 07:11:42 +0000"
     },
-    "done": false
+    "done": true
   },
   "DataVersion": 3465
 }
