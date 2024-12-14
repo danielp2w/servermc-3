@@ -7973,3 +7973,37 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [14Dec2024 05:50:26.774] [Server thread/DEBUG] [tombstone/]: A new grave of the player PamelaG was created at position [x:-813, y:63, z:-172, dim:minecraft:overworld]
 [14Dec2024 05:50:26.806] [Server thread/INFO] [tombstone/]: The player PamelaG has successfully been saved
 [14Dec2024 05:50:28.122] [Server thread/DEBUG] [twilightforest/]: Player PamelaG (8918f011-ec17-38f1-8011-e3f2a176466a) respawned and received items held in storage
+[14Dec2024 05:50:36.886] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-6652, y=4, z=-1351}
+[14Dec2024 05:50:42.903] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-6652, y=4, z=-1351}
+[14Dec2024 05:50:54.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Gamerule sendCommandFeedback is now set to: true]
+[14Dec2024 05:51:23.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PamelaG> -70 3 128+
+[14Dec2024 05:51:36.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Teleported PamelaG to -69.500000, 3.000000, 128.500000]
+[14Dec2024 05:51:39.653] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Dec2024 05:51:39.670] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Dec2024 05:51:54.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Teleported LastFist to -6561.500000, 0.500000, -1067.500000]
+[14Dec2024 05:52:19.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Teleported LastFist to -801.500000, 64.500000, -177.500000]
+[14Dec2024 05:52:25.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Teleported 2 entities to LastFist]
+[14Dec2024 05:53:54.083] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-6652, y=4, z=-1351}
+[14Dec2024 05:54:28.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Summoned new Dwarf Rabbit]
+[14Dec2024 05:54:37.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Teleported 2 entities to LastFist]
+[14Dec2024 05:54:44.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Teleported PamelaG to -69.500000, 3.000000, 128.500000]
+[14Dec2024 05:54:48.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Teleported 2 entities to LastFist]
+[14Dec2024 05:55:06.535] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-6652, y=4, z=-1351}
+[14Dec2024 05:55:09.447] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-819, y=62, z=-172}
+[14Dec2024 05:55:27.884] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-6652, y=4, z=-1351}
+[14Dec2024 05:55:34.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Teleported PamelaG to -69.500000, 3.000000, 128.500000]
+[14Dec2024 05:55:38.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PamelaG suffocated in a wall
+[14Dec2024 05:55:38.850] [Server thread/DEBUG] [tombstone/]: A new grave of the player PamelaG was created at position [x:-74, y:4, z:143, dim:minecraft:overworld]
+[14Dec2024 05:55:38.898] [Server thread/INFO] [tombstone/]: The player PamelaG has successfully been saved
+[14Dec2024 05:55:40.413] [Server thread/DEBUG] [twilightforest/]: Player PamelaG (8918f011-ec17-38f1-8011-e3f2a176466a) respawned and received items held in storage
+[14Dec2024 05:55:53.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Teleported 2 entities to LastFist]
+[14Dec2024 05:55:58.637] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-6652, y=4, z=-1351}
+[14Dec2024 05:56:02.476] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-6652, y=4, z=-1351}
+[14Dec2024 05:56:05.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Teleported PamelaG to -69.500000, 3.000000, 128.500000]
+[14Dec2024 05:56:06.772] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-819, y=62, z=-172}
+[14Dec2024 05:56:39.597] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Dec2024 05:56:39.615] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Dec2024 05:57:19.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Teleported 2 entities to LastFist]
+[14Dec2024 05:58:12.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Summoned new Dwarf Rabbit]
+[14Dec2024 05:58:14.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Summoned new Dwarf Rabbit]
+[14Dec2024 05:58:16.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Summoned new Dwarf Rabbit]

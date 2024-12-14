@@ -861,3 +861,22 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [14Dec2024 05:50:24.988] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player PamelaG (8918f011-ec17-38f1-8011-e3f2a176466a) successfully connected to voice chat
 [14Dec2024 05:50:26.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PamelaG fell from a high place
 [14Dec2024 05:50:26.806] [Server thread/INFO] [tombstone/]: The player PamelaG has successfully been saved
+[14Dec2024 05:50:54.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Gamerule sendCommandFeedback is now set to: true]
+[14Dec2024 05:51:23.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PamelaG> -70 3 128+
+[14Dec2024 05:51:36.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Teleported PamelaG to -69.500000, 3.000000, 128.500000]
+[14Dec2024 05:51:54.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Teleported LastFist to -6561.500000, 0.500000, -1067.500000]
+[14Dec2024 05:52:19.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Teleported LastFist to -801.500000, 64.500000, -177.500000]
+[14Dec2024 05:52:25.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Teleported 2 entities to LastFist]
+[14Dec2024 05:54:28.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Summoned new Dwarf Rabbit]
+[14Dec2024 05:54:37.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Teleported 2 entities to LastFist]
+[14Dec2024 05:54:44.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Teleported PamelaG to -69.500000, 3.000000, 128.500000]
+[14Dec2024 05:54:48.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Teleported 2 entities to LastFist]
+[14Dec2024 05:55:34.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Teleported PamelaG to -69.500000, 3.000000, 128.500000]
+[14Dec2024 05:55:38.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PamelaG suffocated in a wall
+[14Dec2024 05:55:38.898] [Server thread/INFO] [tombstone/]: The player PamelaG has successfully been saved
+[14Dec2024 05:55:53.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Teleported 2 entities to LastFist]
+[14Dec2024 05:56:05.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Teleported PamelaG to -69.500000, 3.000000, 128.500000]
+[14Dec2024 05:57:19.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Teleported 2 entities to LastFist]
+[14Dec2024 05:58:12.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Summoned new Dwarf Rabbit]
+[14Dec2024 05:58:14.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Summoned new Dwarf Rabbit]
+[14Dec2024 05:58:16.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Summoned new Dwarf Rabbit]
