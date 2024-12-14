@@ -762,3 +762,70 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [14Dec2024 05:05:40.072] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 6b21e182-7631-3fbc-8f23-4ba195d9581f
 [14Dec2024 05:05:41.070] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 6b21e182-7631-3fbc-8f23-4ba195d9581f
 [14Dec2024 05:05:41.074] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player LastFist (6b21e182-7631-3fbc-8f23-4ba195d9581f) successfully connected to voice chat
+[14Dec2024 05:10:30.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has made the advancement [Into Fire]
+[14Dec2024 05:14:55.482] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PamelaG[/127.182.179.156:60423] logged in with entity id 18640 at (-2414.963886844391, 64.0, -1473.6474928042264)
+[14Dec2024 05:14:55.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PamelaG joined the game
+[14Dec2024 05:14:57.327] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of PamelaG (18)
+[14Dec2024 05:14:57.328] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to PamelaG
+[14Dec2024 05:15:02.813] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8918f011-ec17-38f1-8011-e3f2a176466a
+[14Dec2024 05:15:03.813] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8918f011-ec17-38f1-8011-e3f2a176466a
+[14Dec2024 05:15:03.814] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player PamelaG (8918f011-ec17-38f1-8011-e3f2a176466a) successfully connected to voice chat
+[14Dec2024 05:15:18.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Teleported PamelaG to LastFist]
+[14Dec2024 05:16:02.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PamelaG was scalded by fiery tears
+[14Dec2024 05:16:02.868] [Server thread/INFO] [tombstone/]: The player PamelaG has successfully been saved
+[14Dec2024 05:16:29.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PamelaG was scalded by fiery tears
+[14Dec2024 05:16:29.824] [Server thread/INFO] [tombstone/]: The player PamelaG has successfully been saved
+[14Dec2024 05:17:26.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PamelaG was slain by Kobold
+[14Dec2024 05:17:26.696] [Server thread/INFO] [tombstone/]: The player PamelaG has successfully been saved
+[14Dec2024 05:18:08.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PamelaG burned to death
+[14Dec2024 05:18:08.405] [Server thread/INFO] [tombstone/]: The player PamelaG has successfully been saved
+[14Dec2024 05:18:43.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PamelaG was doomed to fall by Carminite Ghastguard
+[14Dec2024 05:18:43.204] [Server thread/INFO] [tombstone/]: The player PamelaG has successfully been saved
+[14Dec2024 05:19:21.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PamelaG was slain by Kobold
+[14Dec2024 05:19:21.417] [Server thread/INFO] [tombstone/]: The player PamelaG has successfully been saved
+[14Dec2024 05:19:40.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Teleported PamelaG to 0.500000, 100.000000, 0.500000]
+[14Dec2024 05:19:42.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PamelaG was doomed to fall by Carminite Ghastguard
+[14Dec2024 05:19:42.487] [Server thread/INFO] [tombstone/]: The player PamelaG has successfully been saved
+[14Dec2024 05:20:30.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PamelaG fell from a high place
+[14Dec2024 05:20:30.263] [Server thread/INFO] [tombstone/]: The player PamelaG has successfully been saved
+[14Dec2024 05:22:22.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Gave 1 [Bow] to LastFist]
+[14Dec2024 05:22:34.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Applied enchantment Infinity to LastFist's item]
+[14Dec2024 05:22:42.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Applied enchantment Power V to LastFist's item]
+[14Dec2024 05:22:47.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Applied enchantment Unbreaking III to LastFist's item]
+[14Dec2024 05:22:55.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Gave 1 [Arrow] to LastFist]
+[14Dec2024 05:23:24.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PamelaG has reached the goal [Bone Crusher]
+[14Dec2024 05:23:31.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PamelaG was slain by Zombie
+[14Dec2024 05:23:31.465] [Server thread/INFO] [tombstone/]: The player PamelaG has successfully been saved
+[14Dec2024 05:24:02.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PamelaG was slain by Zombie
+[14Dec2024 05:24:02.692] [Server thread/INFO] [tombstone/]: The player PamelaG has successfully been saved
+[14Dec2024 05:24:34.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PamelaG walked into fire whilst fighting Skeleton
+[14Dec2024 05:24:34.060] [Server thread/INFO] [tombstone/]: The player PamelaG has successfully been saved
+[14Dec2024 05:25:38.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The Lich's aim was better than PamelaG
+[14Dec2024 05:25:38.056] [Server thread/INFO] [tombstone/]: The player PamelaG has successfully been saved
+[14Dec2024 05:26:02.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PamelaG succumbed to the Lich's explosive magic while escaping Zombie
+[14Dec2024 05:26:02.477] [Server thread/INFO] [tombstone/]: The player PamelaG has successfully been saved
+[14Dec2024 05:26:04.644] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'supplementaries:way_sign' in chunk [1, -18], discarding
+[14Dec2024 05:26:04.649] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: supplementaries:way_sign
+[14Dec2024 05:26:04.650] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'supplementaries:way_sign' in chunk [2, -18], discarding
+[14Dec2024 05:26:04.653] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'supplementaries:way_sign' in chunk [3, -18], discarding
+[14Dec2024 05:26:04.680] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'supplementaries:way_sign' in chunk [1, -17], discarding
+[14Dec2024 05:26:04.682] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'supplementaries:way_sign' in chunk [2, -17], discarding
+[14Dec2024 05:26:04.686] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'supplementaries:way_sign' in chunk [3, -17], discarding
+[14Dec2024 05:26:30.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The Lich's aim was better than PamelaG
+[14Dec2024 05:26:30.510] [Server thread/INFO] [tombstone/]: The player PamelaG has successfully been saved
+[14Dec2024 05:26:58.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PamelaG succumbed to the Lich's explosive magic
+[14Dec2024 05:26:58.066] [Server thread/INFO] [tombstone/]: The player PamelaG has successfully been saved
+[14Dec2024 05:27:42.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PamelaG was slain by Zombie
+[14Dec2024 05:27:42.672] [Server thread/INFO] [tombstone/]: The player PamelaG has successfully been saved
+[14Dec2024 05:28:10.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PamelaG was slain by Zombie
+[14Dec2024 05:28:10.111] [Server thread/INFO] [tombstone/]: The player PamelaG has successfully been saved
+[14Dec2024 05:28:11.741] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'supplementaries:way_sign' in chunk [1, -18], discarding
+[14Dec2024 05:28:11.742] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: supplementaries:way_sign
+[14Dec2024 05:28:11.743] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'supplementaries:way_sign' in chunk [2, -18], discarding
+[14Dec2024 05:28:11.744] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'supplementaries:way_sign' in chunk [3, -18], discarding
+[14Dec2024 05:28:11.758] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'supplementaries:way_sign' in chunk [1, -17], discarding
+[14Dec2024 05:28:11.760] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'supplementaries:way_sign' in chunk [2, -17], discarding
+[14Dec2024 05:28:11.761] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'supplementaries:way_sign' in chunk [3, -17], discarding
+[14Dec2024 05:28:19.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has made the advancement [Something Strange in Towerwood]
+[14Dec2024 05:28:38.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PamelaG was slain by Zombie
+[14Dec2024 05:28:38.808] [Server thread/INFO] [tombstone/]: The player PamelaG has successfully been saved

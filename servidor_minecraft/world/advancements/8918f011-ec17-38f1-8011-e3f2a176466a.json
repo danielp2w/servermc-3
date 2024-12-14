@@ -183,6 +183,7 @@
       "minecraft:spider": "2024-12-10 05:27:13 +0000",
       "minecraft:creeper": "2024-12-12 00:15:19 +0000",
       "minecraft:cave_spider": "2024-12-12 03:46:28 +0000",
+      "minecraft:silverfish": "2024-12-14 05:22:51 +0000",
       "minecraft:zombie": "2024-12-10 05:38:13 +0000"
     },
     "done": false
@@ -212,6 +213,7 @@
       "bread": "2024-12-10 05:04:12 +0000",
       "rotten_flesh": "2024-12-12 05:46:31 +0000",
       "glow_berries": "2024-12-12 04:59:43 +0000",
+      "salmon": "2024-12-14 05:23:02 +0000",
       "cooked_chicken": "2024-12-10 06:06:38 +0000",
       "cod": "2024-12-12 04:51:30 +0000",
       "carrot": "2024-12-12 01:39:25 +0000"
@@ -280,7 +282,8 @@
   },
   "twilightforest:arborist": {
     "criteria": {
-      "twilight_oak_sapling": "2024-12-10 05:41:39 +0000"
+      "twilight_oak_sapling": "2024-12-10 05:41:39 +0000",
+      "canopy_log": "2024-12-14 05:20:16 +0000"
     },
     "done": false
   },
@@ -605,53 +608,11 @@
     },
     "done": true
   },
-  "dungeons_arise:find_undead_pirate_ship": {
+  "aether:valkyrie_loot": {
     "criteria": {
-      "location0": "2024-12-12 05:44:23 +0000"
+      "valkyrie_boots": "2024-12-12 05:11:13 +0000"
     },
     "done": true
-  },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-12 06:13:29 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-12 06:13:29 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-12 06:13:29 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-12 06:13:29 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-12 06:13:29 +0000"
-    },
-    "done": false
-  },
-  "undead_revamp2:sugarcoat": {
-    "criteria": {
-      "sugarcoat_0": "2024-12-12 05:33:02 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-12 06:13:29 +0000"
-    },
-    "done": false
   },
   "artifacts:amateur_archaeologist": {
     "criteria": {
@@ -659,33 +620,9 @@
     },
     "done": true
   },
-  "incendium:technical/firestorm": {
+  "undead_revamp2:sugarcoat": {
     "criteria": {
-      "log_spam_fixer": "2024-12-12 06:13:29 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-12 06:13:29 +0000"
-    },
-    "done": false
-  },
-  "iceandfire:iceandfire/kill_ghost": {
-    "criteria": {
-      "killed_fire_dragon": "2024-12-12 06:03:23 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-12 06:13:29 +0000"
-    },
-    "done": false
-  },
-  "aether:valkyrie_loot": {
-    "criteria": {
-      "valkyrie_boots": "2024-12-12 05:11:13 +0000"
+      "sugarcoat_0": "2024-12-12 05:33:02 +0000"
     },
     "done": true
   },
@@ -695,27 +632,39 @@
     },
     "done": true
   },
+  "dungeons_arise:find_undead_pirate_ship": {
+    "criteria": {
+      "location0": "2024-12-12 05:44:23 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/fortuitous_militia": {
     "criteria": {
       "coded_trigger": "2024-12-12 05:53:32 +0000"
     },
     "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "iceandfire:iceandfire/kill_ghost": {
     "criteria": {
-      "log_spam_fixer": "2024-12-12 06:13:29 +0000"
+      "killed_fire_dragon": "2024-12-12 06:03:23 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_labyrinth": {
+    "criteria": {
+      "meef": "2024-12-14 05:16:00 +0000"
     },
     "done": false
   },
-  "incendium:technical/give_ghastling": {
+  "tombstone:adventure/bone_crusher": {
     "criteria": {
-      "log_spam_fixer": "2024-12-12 06:13:29 +0000"
+      "coded_trigger": "2024-12-14 05:23:24 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "twilightforest:twilight_dinner": {
     "criteria": {
-      "log_spam_fixer": "2024-12-12 06:13:29 +0000"
+      "meef_stroganoff": "2024-12-14 05:16:00 +0000"
     },
     "done": false
   },

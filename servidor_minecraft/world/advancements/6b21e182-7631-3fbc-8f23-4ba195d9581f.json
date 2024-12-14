@@ -210,6 +210,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2024-12-12 00:03:40 +0000",
+      "minecraft:blaze": "2024-12-14 05:07:22 +0000",
       "minecraft:skeleton": "2024-12-08 20:06:59 +0000",
       "minecraft:elder_guardian": "2024-12-12 04:38:34 +0000",
       "minecraft:ghast": "2024-12-12 01:00:36 +0000",
@@ -476,6 +477,7 @@
   "twilightforest:arborist": {
     "criteria": {
       "twilight_oak_planks": "2024-12-10 22:22:29 +0000",
+      "mossy_towerwood": "2024-12-14 05:07:37 +0000",
       "encased_towerwood": "2024-12-12 19:39:07 +0000",
       "towerwood": "2024-12-12 19:38:22 +0000",
       "twilight_oak_log": "2024-12-10 05:20:13 +0000",
@@ -991,75 +993,81 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-14 05:06:39 +0000"
+      "log_spam_fixer": "2024-12-14 05:26:39 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-14 05:06:39 +0000"
+      "log_spam_fixer": "2024-12-14 05:26:39 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2024-12-14 05:06:39 +0000"
+      "log_spam_fixer": "2024-12-14 05:26:39 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-12-14 05:06:39 +0000"
+      "log_spam_fixer": "2024-12-14 05:26:39 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-12-14 05:06:39 +0000"
+      "log_spam_fixer": "2024-12-14 05:26:39 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2024-12-14 05:06:39 +0000"
+      "log_spam_fixer": "2024-12-14 05:26:39 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-14 05:06:39 +0000"
+      "log_spam_fixer": "2024-12-14 05:26:39 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-14 05:06:39 +0000"
+      "log_spam_fixer": "2024-12-14 05:26:39 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2024-12-14 05:06:39 +0000"
+      "log_spam_fixer": "2024-12-14 05:26:39 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-14 05:06:39 +0000"
+      "log_spam_fixer": "2024-12-14 05:26:39 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-12-14 05:06:39 +0000"
+      "log_spam_fixer": "2024-12-14 05:26:39 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2024-12-14 05:06:39 +0000"
+      "log_spam_fixer": "2024-12-14 05:26:39 +0000"
     },
     "done": false
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-12-14 05:10:30 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
